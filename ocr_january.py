@@ -16,12 +16,6 @@ from variables import output_template, version_tag, coordinates
 
 # pytesseract.pytesseract.tesseract_cmd = r'D:\ProgramData\Tesseract_OCR\tesseract'
 
-# pth = r'\\s140x0006.stoensa.pl\OCR\PROD\IN' # folder z plikami pdf do procesowania
-# destpth = r'\\s140x0006.stoensa.pl\OCR\PROD\DONE' # folder z przeprocesowanymi pdfami
-# outpth = r'\\s140x0006.stoensa.pl\OCR\PROD\OUT' # folder z outputem csv
-# err_mes = r'D:\frankenstein_repo\err_mes' # folder z zapisem bledow
-# err_move = r'\\s140x0006.stoensa.pl\OCR\PROD\ERROR' # folder z plikami pdf nieprzeprocesowanymi z uwagi na blad
-
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\UI954923\AppData\Local\Tesseract-OCR\tesseract'
 
